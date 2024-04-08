@@ -1,0 +1,133 @@
+#network{
+  text-align: center;
+  color: white;
+  background-color: black;
+  width: 1000px;
+  height: 50px;
+}
+#network h2{
+  font-size: 35px;
+  color: black;
+  background-color:rgb(255, 255, 255);
+  position: relative;
+  top: 30px;
+  left: -160px;
+}
+#perfil{
+  width: 210px;
+  height: 240px;
+  border: 2px black solid;
+  position: relative;
+  top: 150px;
+  border-radius: 10px;
+}
+#perfil img{
+  position: absolute;
+  border-radius: 100px;
+  border: 2px rgb(0, 0, 0) solid;
+  width: 140px;
+  left: 30px;
+  top: 20px;
+}
+#perfil h3{
+  position: relative;
+  font-size: 20px;
+  top: 180px;
+  left: 40px;
+}
+#primero{
+  position: absolute;
+  border:2px black solid;
+  border-radius: 10px;
+  background-color: rgb(241, 241, 241);
+  left: 270px;
+  top: 220px;
+  height: 100px;
+  width: 680px;
+}
+#primero div {
+  position: relative;
+  top: -5px;
+  left: 20px;
+}
+#primero button{
+  position: relative;
+  color: black;
+  background-color: rgb(255, 255, 95);
+  width: 85px;
+  height: 25px;
+  border-radius: 10px;
+  top: -70px;
+  left: 550px;
+  font-size: 12px;
+}
+#primero h4{
+ position: relative;
+  top: -112px;
+  left: 440px;
+  font-size: 15px;
+}
+#segundo{
+  position: absolute;
+  border:2px black solid;
+  border-radius: 10px;
+  background-color: rgb(241, 241, 241);
+  left: 270px;
+  top: 350px;
+  height: 100px;
+  width: 680px;
+}
+#segundo button{
+  position: relative;
+  color: black;
+  background-color: rgb(255, 255, 95);
+  width: 85px;
+  height: 25px;
+  border-radius: 10px;
+  top: -70px;
+  left: 550px;
+  font-size: 12px;
+}
+#segundo div {
+  position: relative;
+  top: -5px;
+  left: 20px;
+}
+#segundo h4{
+  position: relative;
+   top: -112px;
+  left: 440px;
+  font-size: 15px;
+}
+#tercero{
+  position: relative;
+  border:2px black solid;
+  border-radius: 10px;
+  background-color: rgb(241, 241, 241);
+  left: 260px;
+  top: 170px;
+  height: 100px;
+  width: 680px;
+}
+#tercero button{
+  position: relative;
+  color: black;
+  background-color: rgb(255, 255, 95);
+  width: 85px;
+  height: 25px;
+  border-radius: 10px;
+  top: -70px;
+  left: 550px;
+  font-size: 12px;
+}
+#tercero div {
+  position: relative;
+  top: -5px;
+  left: 20px;
+}
+#tercero h4{
+  position: relative;
+   top: -112px;
+   left: 440px;
+   font-size: 15px;
+}
